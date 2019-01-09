@@ -1,0 +1,6 @@
+hi,hello,hey,chao|0<s>Chào bạn :)|
+dat hang,mua hang,mua|0<s>Bạn vui lòng đặt hàng theo cú pháp sau:|0<s>dh mã_sản_phẩm Tên sđt|0<s>Ví dụ: dh 12345 nguyễn văn a 0987123456|0<s>Nếu bạn không biết mã sản phẩm hãy vào đây để tra https://luu.vn/|
+shop o dau,cua hang o dau,ban o dau|0<s>Mình chỉ bán Online bạn nhé!|
+tu van|0<s>Bạn cần tư vấn dòng sản phẩm nào?|
+cam on,tks,thank,thanks,tnx,tx|0<s>Cảm ơn bạn đã dành thời gian với chúng tôi|
+web,website|0<s>https://luu.vn/|
